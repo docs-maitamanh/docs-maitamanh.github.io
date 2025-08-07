@@ -54,28 +54,3 @@ Cam kết tuân thủ pháp luật, quy trình vận hành chuẩn chỉnh, gắ
 * **Trải nghiệm di động hoàn hảo:** Quản lý giao dịch và hoàn tiền ngay trên ứng dụng di động, mang đến sự tiện lợi và chủ động mọi lúc, mọi nơi.
 * **Hỗ trợ tận tâm:** Đội ngũ hỗ trợ của Paykit luôn sẵn sàng đồng hành, giúp bạn giải quyết mọi vấn đề nhanh chóng và hiệu quả.
 
-## Bắt đầu
-### Đối với doanh nghiệp đang cân nhắc dùng Paykit
-Bạn có thể tìm hiểu một số thông tin cơ bản về Paykit tại đây:
-
-* **Bắt đầu nhận thanh toán:** Tìm hiểu cách đăng ký tài khoản và kích hoạt các phương thức thanh toán phù hợp với doanh nghiệp của bạn.
-* **Phí xử lý giao dịch:** Xem chi tiết biểu phí của Paykit và diễn giải của từng loại phí tại đây.
-* **Các ngành nghề không hỗ trợ:** Tìm hiểu danh sách ngành nghề mà Paykit không hỗ trợ.
-* **Mở phương thức thanh toán:** Hướng dẫn kích hoạt và sử dụng các phương thức chấp nhận thanh toán online.
-* **Xác minh danh tính và doanh nghiệp:** Hướng dẫn quy trình xác minh nhanh chóng và dễ dàng.
-
-[comment]: <> (* **Tài khoản thử nghiệm:** Khám phá cách đăng ký tài khoản thử nghiệm để trải nghiệm Paykit trước khi triển khai thực tế.)
-
-[comment]: <> (* **Thiết lập quản trị và phân quyền:** Hướng dẫn chi tiết để tổ chức và quản lý quyền truy cập cho nhân viên của doanh nghiệp.)
-
-### Đối với doanh nghiệp đã có tài khoản Paykit
-Truy cập hướng dẫn chi tiết cách sử dụng các tính năng như Link thanh toán, Trang thanh toán, và Paykit API tại đây.
-
-## Liên hệ hỗ trợ
-Nếu có bất kỳ thắc mắc nào, bạn có thể:
-
-* **Xem FAQ:** Câu hỏi thường gặp.
-* **Liên hệ trực tiếp:** Qua email support@paykit.vn hoặc số hotline (028) 7301 2030.
-* **Tham gia cộng đồng:** Cùng kết nối với các nhà bán hàng khác tại Facebook Group Paykit.
-
-Chúng tôi mong rằng Paykit sẽ trở thành người bạn đồng hành đáng tin cậy trong hành trình kinh doanh của bạn. Bắt đầu ngay hôm nay!

@@ -16,7 +16,7 @@ Nếu bạn là đối tác mới, vui lòng liên hệ bộ phận hỗ trợ �
 ### 2. Cách đăng nhập đại lý thanh toán
 Để đăng nhập tài khoản đại lý thanh toán, bạn thực hiện các bước sau: 
    
-1. Mở trình duyệt Google Chrome, Firefox, hoặc Edge. Truy cập vào đường link [Đăng nhập đại lý thanh toán ](https://cash.maitamanh.vn/login.html) 
+1. Mở trình duyệt Google Chrome, Firefox, hoặc Edge. Truy cập vào đường link [Đăng nhập đại lý thanh toán ](https://cash.maitamanh.vn/login.html){:target="_blank"} 
 2. Nhập thông tin tài khoản và mật khẩu theo yêu cầu.
 3. Nhấn Đăng Nhập (Login).
 5. Hoàn tất quy trình đăng nhập và bắt đầu sử dụng hệ thống đại lý thanh toán.
