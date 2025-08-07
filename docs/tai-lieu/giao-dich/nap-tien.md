@@ -24,7 +24,7 @@ Nạp tiền mặt qua đại lý thanh toán là hình thức khách hàng đ�
 ## Các bước nạp tiền
 **Thực hiện trên MTA web app**
 
-1. Đăng nhập tài khoản của bạn trên web app [Đại lý thanh toán ](https://cash.maitamanh.vn/login.html). 
+1. Đăng nhập tài khoản của bạn trên web app [Đại lý thanh toán ](https://cash.maitamanh.vn/login.html){:target="_blank"}. 
 
 2. Tại giao diện chính, chọn: **Giao dịch**> **Nạp Tiền**(góc trên bên phải màn hình).
 
