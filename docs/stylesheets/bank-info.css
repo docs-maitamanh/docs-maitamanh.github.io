@@ -1,0 +1,73 @@
+/* Floating Bank Info Box */
+.bank-info-float {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+  z-index: 1000;
+  max-width: 300px;
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+
+.bank-info-float:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 25px rgba(0,0,0,0.2);
+}
+
+.bank-info-toggle {
+  background: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 50px;
+  cursor: pointer;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1001;
+  font-weight: bold;
+}
+
+.bank-info-content {
+  display: none;
+  margin-top: 10px;
+}
+
+.bank-info-content.show {
+  display: block;
+}
+
+.bank-info-item {
+  margin-bottom: 8px;
+  padding: 5px 0;
+  border-bottom: 1px solid rgba(255,255,255,0.2);
+}
+
+.bank-info-item:last-child {
+  border-bottom: none;
+}
+
+.bank-name {
+  font-weight: bold;
+  color: #FFD700;
+}
+
+.copy-btn {
+  background: rgba(255,255,255,0.2);
+  border: 1px solid rgba(255,255,255,0.3);
+  color: white;
+  padding: 2px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 12px;
+  margin-left: 5px;
+}
+
+.copy-btn:hover {
+  background: rgba(255,255,255,0.3);
+}
