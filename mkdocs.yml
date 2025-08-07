@@ -33,11 +33,13 @@ extra_css:
   - stylesheets/tabs.css
   - stylesheets/content.css
   - stylesheets/footer.css
+  - stylesheets/bank-info.css
 
 extra_javascript:
   - javascripts/search-bar.js
   - javascripts/sidebar.js
   - javascripts/feedback.js
+  - javascripts/bank-info.js
 
 use_directory_urls: false
 
