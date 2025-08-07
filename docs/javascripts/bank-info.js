@@ -2,41 +2,26 @@ document.addEventListener('DOMContentLoaded', function() {
     // Create bank info widget
     const bankWidget = document.createElement('div');
     bankWidget.innerHTML = `
-        <button class="bank-info-toggle" onclick="toggleBankInfo()">
-            💳 Thông tin TK MAI TÂM ANH
-        </button>
-        <div class="bank-info-content" id="bankInfoContent">
-            <div class="bank-info-item">
-                <div class="bank-name">Ngân hàng: Ngân hàng TMCP Quân Đội (MBBANK) Chi nhánh Bắc Sài Gòn</div>
-                <div>STK: 3869099999 <button class="copy-btn" onclick="copyText('1234567890')">Copy</button></div>
-                <div>TÊN TK: CÔNG TY TNHH ĐẦU TƯ MAI TÂM ANH</div>
+        <div class="bank-info-header">💳 Thông tin TK MAI TÂM ANH</div>
+        <div class="bank-info-item">
+            <div class="bank-name">Ngân hàng TMCP Quân Đội (MBBANK) - Chi nhánh Bắc Sài Gòn</div>
+            <div class="bank-account">
+            STK: <span class="account-number">3869099999</span>
+            <button class="copy-btn" onclick="copyText('3869099999', this)">Copy</button>
             </div>
-            <div class="bank-info-item">
-                <div style="font-size: 12px; color: #FFE4B5;">
-                    Nội dung: [Tên khách hàng] - Nạp tiền
-                </div>
-            </div>
+            <div class="account-holder">CÔNG TY TNHH ĐẦU TƯ MAI TÂM ANH</div>
         </div>
     `;
-    bankWidget.className = 'bank-info-float';
+    bankWidget.className = 'bank-info-widget';
     document.body.appendChild(bankWidget);
 });
 
-function toggleBankInfo() {
-    const content = document.getElementById('bankInfoContent');
-    content.classList.toggle('show');
-}
-
-function copyText(text) {
+function copyText(text, btn) {
     navigator.clipboard.writeText(text).then(function() {
-        // Show success message
-        const btn = event.target;
         const originalText = btn.textContent;
         btn.textContent = 'Copied!';
-        btn.style.background = '#4CAF50';
         setTimeout(() => {
             btn.textContent = originalText;
-            btn.style.background = 'rgba(255,255,255,0.2)';
-        }, 2000);
+        }, 1500);
     });
 }
