@@ -3,18 +3,13 @@ document.addEventListener('DOMContentLoaded', function() {
     const bankWidget = document.createElement('div');
     bankWidget.innerHTML = `
         <button class="bank-info-toggle" onclick="toggleBankInfo()">
-            💳 Thông tin TK
+            💳 Thông tin TK MAI TÂM ANH
         </button>
         <div class="bank-info-content" id="bankInfoContent">
             <div class="bank-info-item">
-                <div class="bank-name">Vietcombank</div>
-                <div>STK: 1234567890 <button class="copy-btn" onclick="copyText('1234567890')">Copy</button></div>
-                <div>Chủ TK: MAI TÂM ANH</div>
-            </div>
-            <div class="bank-info-item">
-                <div class="bank-name">Techcombank</div>
-                <div>STK: 0987654321 <button class="copy-btn" onclick="copyText('0987654321')">Copy</button></div>
-                <div>Chủ TK: MAI TÂM ANH</div>
+                <div class="bank-name">Ngân hàng: Ngân hàng TMCP Quân Đội (MBBANK) Chi nhánh Bắc Sài Gòn</div>
+                <div>STK: 3869099999 <button class="copy-btn" onclick="copyText('1234567890')">Copy</button></div>
+                <div>TÊN TK: CÔNG TY TNHH ĐẦU TƯ MAI TÂM ANH</div>
             </div>
             <div class="bank-info-item">
                 <div style="font-size: 12px; color: #FFE4B5;">
