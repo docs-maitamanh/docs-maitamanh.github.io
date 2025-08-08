@@ -1,8 +1,7 @@
-###Nạp tiền mặt qua Đại lý Thanh toán là gì?
 
-Nạp tiền mặt qua đại lý thanh toán là hình thức khách hàng đến trực tiếp một điểm giao dịch của Mai Tâm Anh (gọi là *đại lý thanh toán*) để gửi tiền mặt vào tài khoản ngân hàng của mình hoặc của người khác.
+Nạp tiền mặt qua đại lý thanh toán là hình thức khách hàng đến trực tiếp một điểm giao dịch của **Mai Tâm Anh** (gọi là *đại lý thanh toán*) để gửi tiền mặt vào tài khoản ngân hàng của mình hoặc của người khác.
 
-Cách hoạt động:
+**Cách hoạt động**:
 
 * Khách hàng mang tiền mặt đến điểm đại lý thanh toán
 
@@ -10,7 +9,7 @@ Cách hoạt động:
 
 * Nhân viên đại lý kiểm tra thông tin và thực hiện thao tác trên hệ thống
 
-**Khách hàng sẽ nhận được xác nhận nạp tiền và khoản tiền sẽ được ghi nhận vào tài khoản đích.**
+Khách hàng sẽ nhận được xác nhận nạp tiền và khoản tiền sẽ được ghi nhận vào tài khoản đích.
 
 **Ưu điểm:**
 

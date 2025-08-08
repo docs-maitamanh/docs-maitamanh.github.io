@@ -21,8 +21,8 @@ Vui lòng liên hệ trực tiếp với bộ phận Kinh doanh để được h
 
 * Truy cập vào đường dẫn: [Đăng nhập đại lý thanh toán.](https://cash.maitamanh.vn/login.html){:target="_blank"}
 
-* Nhập tên đăng nhập và mật khẩu được cấp.
+* Nhập tên **đăng nhập** và **mật khẩu** được cấp.
 
-* Nhấn nút Đăng nhập (Login).
+* Nhấn nút **Đăng nhập** (Login).
 
-Hoàn tất quy trình đăng nhập và bắt đầu sử dụng hệ thống.
+**Hoàn tất quy trình đăng nhập và bắt đầu sử dụng hệ thống**.
