@@ -52,8 +52,7 @@ Chúng tôi cam kết đầu tư nguồn lực để mở rộng sản phẩm, �
 
 
 ##Mục tiêu của chúng tôi
-   **Đơn giản – Minh bạch – Dễ áp dụng**
-Giúp bạn khai thác hiệu quả toàn bộ hệ sinh thái MTA và phát triển bền vững cùng chúng tôi.
+   **Đơn giản – Minh bạch – Dễ áp dụng**: Giúp bạn khai thác hiệu quả toàn bộ hệ sinh thái MTA và phát triển bền vững cùng chúng tôi.
 
 ##Liên hệ hỗ trợ
 Nếu có bất kỳ thắc mắc nào, bạn có thể:
