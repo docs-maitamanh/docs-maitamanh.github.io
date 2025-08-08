@@ -1,56 +1,67 @@
-# Cổng tài liệu chính thức của Mai Tâm Anh
-
 
 Chào mừng bạn đến với **docs.maitamanh.vn** – nền tảng tài liệu chính thức của Công ty TNHH Đầu tư Mai Tâm Anh (MTA).
 
-Tại đây, chúng tôi cung cấp đầy đủ hướng dẫn, quy trình, chính sách và công cụ hỗ trợ dành cho:
+Tại đây, bạn sẽ tìm thấy đầy đủ các hướng dẫn, quy trình, chính sách và công cụ hỗ trợ dành cho:
 
-* **Đối tác kinh doanh:** Nắm bắt nhanh cách thức hợp tác, sản phẩm, chính sách hoa hồng, hỗ trợ kỹ thuật.
+* **Đối tác kinh doanh**:
+Hướng dẫn hợp tác, thông tin sản phẩm, chính sách hoa hồng, hỗ trợ kỹ thuật và vận hành.
 
-* **Nhân sự MTA:** Truy cập tài liệu nội bộ, hướng dẫn vận hành, đào tạo, biểu mẫu hành chính,…
+* **Nhân sự MTA**:
+Truy cập nhanh các tài liệu nội bộ, quy trình làm việc, biểu mẫu hành chính và chương trình đào tạo.
+***
 
+##Tổng quan về Đại lý Thanh toán
 
-## Tổng quan về đại lý thanh toán
+Đại lý thanh toán là tổ chức, doanh nghiệp hoặc cá nhân được ngân hàng hoặc tổ chức tín dụng ủy quyền thực hiện một số dịch vụ thanh toán, bao gồm:
 
-Đại lý thanh toán là doanh nghiệp, tổ chức hoặc cá nhân được một ngân hàng hoặc tổ chức tín dụng ủy quyền thực hiện một số hoạt động thanh toán nhất định, bao gồm:
+* Thu hộ, chi hộ
 
-* **Thu hộ, chi hộ**
+* Nộp tiền mặt vào tài khoản ngân hàng
 
-* **Nộp tiền mặt vào tài khoản ngân hàng**
+* Chuyển tiền theo hạn mức quy định
 
-* **Thực hiện lệnh chuyển tiền (theo hạn mức quy định)**
+* Các dịch vụ thanh toán cơ bản khác (tùy theo thỏa thuận giữa ngân hàng và đại lý)
 
-* **Tối ưu chi phí:** Biểu phí cạnh tranh nhất trên thị trường.
+**Ưu điểm**: Biểu phí cạnh tranh – Tối ưu chi phí cho người dùng.
 
-Các dịch vụ thanh toán cơ bản khác (tùy vào hợp tác giữa ngân hàng và đại lý)
+**Mục tiêu**: Mở rộng độ phủ dịch vụ ngân hàng đến các khu vực vùng sâu, vùng xa, nơi chưa có chi nhánh ngân hàng.
 
-Mục tiêu là mở rộng độ phủ dịch vụ ngân hàng, đặc biệt ở vùng sâu vùng xa hoặc những nơi ngân hàng chưa mở chi nhánh.
+## Tại sao nên chọn Mai Tâm Anh?
 
+   * **Hệ thống phân phối rộng khắp, chuyên nghiệp**:
+MTA là Tổng Đại lý Cấp 1 của Vietlott, vận hành hơn 2.700 điểm bán trên toàn quốc.
+Hệ thống bao gồm cả điểm bán độc lập và chuỗi cửa hàng đối tác – dễ dàng tích hợp thêm dịch vụ thanh toán, bảo hiểm và tài chính.
+Chúng tôi có kinh nghiệm chuẩn hóa chuỗi cửa hàng theo từng cấp độ, giúp mở rộng dịch vụ nhanh chóng và hiệu quả.
 
-## Tại sao chọn Mai Tâm Anh ? 
-* **Hệ thống phân phối rộng khắp, chuyên nghiệp:**MTA là Tổng Đại lý Cấp 1 của Vietlott, đang vận hành hơn 2.700 điểm bán trên toàn quốc.
-Hệ thống phân phối gồm cả điểm bán độc lập và chuỗi cửa hàng đối tác – dễ dàng tích hợp thêm dịch vụ thanh toán, bảo hiểm, tài chính.Có kinh nghiệm xây dựng chuỗi cửa hàng chuẩn hóa theo từng cấp độ, giúp dễ dàng nhân rộng dịch vụ mới.
+   * **Năng lực vận hành mạnh, kiểm soát chặt chẽ**:
+Với hơn 100 nhân sự hoạt động theo mô hình vùng miền (Bắc – Trung – Nam – Đông – Tây), MTA đảm bảo sự vận hành linh hoạt và hiệu quả.
+Hệ thống quản lý dữ liệu, giao dịch và đối tác được thiết kế tập trung – minh bạch – dễ kiểm soát.
 
-* **Năng lực vận hành mạnh, kiểm soát chặt chẽ:**MTA sở hữu đội ngũ vận hành quy mô >100 nhân sự, tổ chức theo mô hình vùng miền chuyên biệt (Bắc – Trung – Nam – Đông – Tây).Có hệ thống quản lý bán hàng, đối tác và dữ liệu tập trung, minh bạch, giúp kiểm soát hiệu quả mọi giao dịch và quy trình liên quan.
+   * **Đội ngũ kinh doanh và đào tạo chuyên sâu**:
+Chúng tôi đã triển khai thành công nhiều sản phẩm mới như: bảo hiểm phi nhân thọ, vé cào, giải pháp thanh toán, v.v.
+Khả năng đào tạo đối tác nhanh, bài bản giúp đảm bảo chất lượng triển khai đồng đều trên toàn hệ thống.
 
-* **Đội ngũ kinh doanh và đào tạo chuyên sâu:**Đã có kinh nghiệm triển khai nhiều sản phẩm mới như: bảo hiểm phi nhân thọ, vé cào, giải pháp thanh toán,...
-Có năng lực đào tạo đối tác nhanh, hiệu quả, giúp đảm bảo chất lượng triển khai đồng bộ trong toàn hệ thống.
-
-* **Tập trung vào đổi mới & ứng dụng công nghệ:**Hướng đến phát triển nền tảng số hóa quản lý và bán hàng (App nội bộ, QR bán hàng, ví điện tử...).
+   * **Đổi mới và ứng dụng công nghệ**:
+Chúng tôi không ngừng phát triển các nền tảng số hoá quản lý và bán hàng (App nội bộ, QR bán hàng, ví điện tử...).
 Luôn chủ động cập nhật và ứng dụng công nghệ để tối ưu vận hành, đồng hành cùng xu hướng ngân hàng số.
 
-* **Tầm nhìn dài hạn – Đối tác phát triển bền vững:**
-Mai Tâm Anh không chỉ là nhà phân phối, mà là đối tác đồng hành phát triển dài hạn, sẵn sàng đầu tư nguồn lực để mở rộng sản phẩm và dịch vụ tài chính.
-Cam kết tuân thủ pháp luật, quy trình vận hành chuẩn chỉnh, gắn kết lợi ích ba bên: Đối tác – Người dùng – Hệ thống.
- 
-* **Mục tiêu của chúng tôi:**
-Đơn giản – Minh bạch – Dễ áp dụng.
-Giúp bạn khai thác hiệu quả hệ sinh thái MTA và đồng hành phát triển dài hạn.
-## Liên hệ hỗ trợ
+   * **Tầm nhìn dài hạn – Đối tác phát triển bền vững**:
+Mai Tâm Anh không chỉ là đơn vị phân phối mà còn là đối tác chiến lược.
+Chúng tôi cam kết đầu tư nguồn lực để mở rộng sản phẩm, đảm bảo tuân thủ pháp luật và mang lại lợi ích bền vững cho cả 3 bên:
+Đối tác – Người dùng – Hệ thống.
+
+
+##Mục tiêu của chúng tôi
+   **Đơn giản – Minh bạch – Dễ áp dụng**
+Giúp bạn khai thác hiệu quả toàn bộ hệ sinh thái MTA và phát triển bền vững cùng chúng tôi.
+
+##Liên hệ hỗ trợ
 Nếu có bất kỳ thắc mắc nào, bạn có thể:
 
-* **Liên hệ trực tiếp:** qua mail: [cskh@maitamanh.vn](mailto:cskh@maitamanh.vn) - Số hotline: **1900 633 035**
-* **Tham gia cộng đồng:** Cùng kết nối với chúng tôi tại [Facebook Group MTA](https://www.facebook.com/maitamanhdailyvietlott/) 
+Liên hệ trực tiếp:
+📧 Email: [cskh@maitamanh.vn](mailto:cskh@maitamanh.vn) - ☎️ Hotline: **1900 633 035**
 
-Chúng tôi mong rằng MTA sẽ trở thành người bạn đồng hành đáng tin cậy trong hành trình kinh doanh của bạn. Bắt đầu ngay hôm nay!
+Tham gia cộng đồng: [Facebook group MTA](https://www.facebook.com/maitamanhdailyvietlott/)
 
+Chúng tôi hy vọng Mai Tâm Anh sẽ trở thành người bạn đồng hành tin cậy trong hành trình kinh doanh của bạn.
+Bắt đầu ngay hôm nay!

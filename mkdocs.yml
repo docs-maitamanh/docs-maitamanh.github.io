@@ -59,6 +59,20 @@ nav:
     - Giao Dịch:
         - Nạp Tiền: tai-lieu/giao-dich/nap-tien.md
         - Rút tiền Cash by Code: tai-lieu/giao-dich/rut-tien-code-by-code.md
+        - Nạp Tiền Mặt: tai-lieu/giao-dich/nap-tien.md
+        - Rút tiền Cash by Code: tai-lieu/giao-dich/rut-tien-cash-by-code.md
+     #   - Chia sẻ link thanh toán: tai-lieu/link-thanh-toan/chia-se-link.md
+     #   - Theo dõi link thanh toán: tai-lieu/link-thanh-toan/theo-doi-link.md
+  #  - Rút tiền:
+  #      - Tài khoản rút tiền: tai-lieu/rut-tien/tai-khoan-rut-tien.md
+   #     - Tạo lệnh rút tiền: tai-lieu/rut-tien/tao-lenh-rut-tien.md
+
+
+
+# Custom sidebar link header group
+#nav_header_custom:
+#  - Thương mại điện tử là gì?: https://docs.paykit.vn/thuong-mai-dien-tu-la-gi.html
+#  - Cổng thanh toán là gì?: https://docs.paykit.vn/cong-thanh-toan-la-gi.html
 
 markdown_extensions:
   - abbr

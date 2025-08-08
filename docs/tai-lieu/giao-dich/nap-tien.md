@@ -1,186 +1,186 @@
-**Nạp tiền mặt qua Đại lý thanh toán là gì?**
 
-Nạp tiền mặt qua đại lý thanh toán là hình thức khách hàng đến trực tiếp một điểm giao dịch của Mai Tâm Anh (gọi là đại lý thanh toán) để gửi tiền mặt vào tài khoản ngân hàng của mình hoặc của người khác.
+Nạp tiền mặt qua đại lý thanh toán là hình thức khách hàng đến trực tiếp một điểm giao dịch của **Mai Tâm Anh** (gọi là *đại lý thanh toán*) để gửi tiền mặt vào tài khoản ngân hàng của mình hoặc của người khác.
 
-**Cách hoạt động:**
+**Cách hoạt động**:
 
-- Khách hàng mang tiền mặt đến điểm đại lý thanh toán.
+* Khách hàng mang tiền mặt đến điểm đại lý thanh toán
 
-- Cung cấp số tài khoản ngân hàng cần nạp và số tiền cần gửi.
+* Cung cấp số tài khoản ngân hàng cần nạp và số tiền cần gửi
 
-- Nhân viên đại lý kiểm tra thông tin và thực hiện thao tác trên hệ thống.
+* Nhân viên đại lý kiểm tra thông tin và thực hiện thao tác trên hệ thống
 
-**Khách hàng nhận được xác nhận nạp tiền và tiền sẽ được ghi nhận vào tài khoản đích**
+Khách hàng sẽ nhận được xác nhận nạp tiền và khoản tiền sẽ được ghi nhận vào tài khoản đích.
 
 **Ưu điểm:**
 
-✅ Nhanh chóng: Không cần ra ngân hàng, đặc biệt hữu ích ở khu vực chưa có chi nhánh ngân hàng.
+**Nhanh chóng**: Không cần đến ngân hàng, đặc biệt hữu ích tại khu vực chưa có chi nhánh ngân hàng
 
-✅ Tiện lợi: Giao dịch được thực hiện tại các đại lý xổ số Vietlott của Mai Tâm Anh.
+**Tiện lợi**: Giao dịch được thực hiện ngay tại các đại lý xổ số Vietlott của Mai Tâm Anh
 
-✅ An toàn – minh bạch: Có biên lai và hệ thống đối soát tự động từ ngân hàng.
+**An toàn – minh bạch**: Có biên lai và hệ thống đối soát tự động từ ngân hàng
 ***
+###Các bước nạp tiền 
+*Thực hiện trên MTA Web App*
 
-## Các bước nạp tiền
-**Thực hiện trên MTA web app**
+**1. Đăng nhập tài khoản**:
+Truy cập web app [Đại lý thanh toán ](https://cash.maitamanh.vn/login.html){:target="_blank"} và đăng nhập bằng tài khoản được cấp.
 
-1. Đăng nhập tài khoản của bạn trên web app [Đại lý thanh toán ](https://cash.maitamanh.vn/login.html){:target="_blank"}. 
+**2. Thực hiện giao dịch nạp tiền**:
+Tại giao diện chính, chọn:
+**Giao dịch** > **Nạp Tiền** *(góc trên bên phải màn hình)*
 
-2. Tại giao diện chính, chọn: **Giao dịch**> **Nạp Tiền**(góc trên bên phải màn hình).
+**3. Nhập thông tin giao dịch**:
+ 
+ **3**.1 Số tiền nạp
 
-3. Nhập thông tin giao dịch
-    
-    3.1 **Số tiền nạp**
+* Nhập số tiền khách hàng muốn nạp
+* Nhấn **Truy vấn hạn mức** để kiểm tra hạn mức còn lại trong ngày/tháng
 
-    - Nhập vào số tiền khách hàng muốn nạp.
-    - Nhấn **Truy vấn hạn mức** để kiểm tra hạn mức còn trong ngày/tháng của điểm giao dịch.
-
-        Hạn mức mặc định:
-        >Tối đa 200.000.000 VNĐ/ngày.
+>  **Hạn mức mặc định:**
+> 
+> * Tối đa 200.000.000 VNĐ/ngày
+> 
+> * Tối đa 5.000.000.000 VNĐ/tháng
 >
-> Tối đa 5.000.000.000 VNĐ/tháng.
-
-        *Lưu ý: Hạn mức sẽ tự động được đặt lại mỗi ngày và mỗi tháng. Nếu số tiền nhập vượt quá hạn mức còn lại, hệ thống sẽ từ chối giao dịch.*
 
 
-    3.2 **Thông tin khách hàng (Người nộp tiền)**
+ **Lưu ý:** *Hạn mức sẽ được tự động đặt lại mỗi ngày và mỗi tháng. Nếu nhập vượt quá hạn mức, hệ thống sẽ từ chối giao dịch.*
 
-    Vui lòng nhập đầy đủ các thông tin sau:
+**3**.2 Thông tin khách hàng (Người nộp tiền)
 
-     * **Số CCCD (căn cước công dân):**
+Vui lòng nhập đầy đủ thông tin sau:
 
-     * **Họ và tên:**
- 
-     * **Số điện thoại:**
- 
-     * **Email(nếu có):**
- 
-     * **Địa chỉ (thường trú hoặc tạm trú):**
- 
-        *Lưu ý: khi nhập số CCCD của khách hàng đã từng thực hiện giao dịch trong hệ thống, sẽ tự động điền các thông tin còn lại.*
- 
-    3.3 **Thông tin tài khoản nhận tiền**
+> * Số CCCD (căn cước công dân):
+> 
+> * Họ và tên:
+> 
+> * Số điện thoại:
+> 
+> * Email (nếu có):
+> 
+> * Địa chỉ (thường trú hoặc tạm trú):
+> 
 
+ **Lưu ý:** *Nếu nhập số CCCD của khách đã từng giao dịch, hệ thống sẽ tự động điền các thông tin còn lại.*
 
-    * **Chọn loại giao dịch:**
-    
-        >  Tài khoản - Nạp tiền vào số tài khoản ngân hàng
+**3**.3 Thông tin tài khoản nhận tiền
+
+* **Chọn loại giao dịch:**
+
+    > * Tài khoản – Nạp vào số tài khoản ngân hàng
     > 
-        > Thẻ – Nạp tiền vào số thẻ ATM
-        
-    Nhập thông tin chi tiết:
+    > * Thẻ – Nạp vào số thẻ ATM
 
-    * **Ngân hàng:** *chọn ngân hàng thụ hưởng.*
+Nhập thông tin chi tiết:
 
-    * **Số tài khoản:** *trường hợp nộp vào tài khoản.*
+> * Ngân hàng: *Chọn ngân hàng thụ hưởng*
+> 
+> * Số tài khoản: *Nếu nạp vào tài khoản*
+> 
+> * Số thẻ: *(Nếu nạp vào thẻ)*
+> 
+> * Tên tài khoản: *Tên người thụ hưởng*
 
-    * **Số thẻ:** *(nếu nạp vào thẻ)*.
+Sau khi điền đầy đủ, nhấn **Truy vấn thông tin tài khoản** để kiểm tra tính hợp lệ:
 
-    * **Tên tài khoản:** *tên người thụ hưởng.*
+* **Nếu hợp lệ**: *Thực hiện bước tiếp theo*
 
-    Sau khi điền đầy đủ, nhấn **Truy vấn thông tin tài khoản** để kiểm tra tính hợp lệ: 
+* **Nếu không hợp lệ**: *Vui lòng kiểm tra và nhập lại thông tin chính xác*
 
-    * **Nếu hợp lệ**: *thực hiện bước tiếp theo*
+**4. Truy vấn phí giao dịch**
 
-    * **Nếu không hợp lệ**: *vui lòng kiểm tra và nhập lại thông tin chính xác.*
+Sau khi hoàn tất các thông tin ở Bước 1 → 3, nhấn nút **Truy vấn phí** để hệ thống hiển thị mức phí giao dịch dự kiến. 
 
-4. Truy vấn phí giao dịch
+* **Phí được tính ngoài số tiền nộp**.
 
-    Sau khi hoàn tất các thông tin ở Bước 1 → 3, nhấn nút **Truy vấn phí** để hệ thống hiển thị mức phí giao dịch dự kiến.
-
-    * **Phí được tính riêng ngoài số tiền nộp.**
-
-        👉 Số tiền khách hàng cần nộp = Số tiền vào tài khoản + Phí giao dịch
+     *Số tiền khách hàng cần nộp = Số tiền vào tài khoản + Phí giao dịch*
 
             📌 Ví dụ: Nạp 1.000.000 VNĐ, phí là 11.000 VNĐ → Tổng thu khách = 1.011.000 VNĐ
 
-    💡 **Trường hợp đặc biệt:** Nếu khách hàng chỉ mang đúng số tiền cần nộp, không có tiền để trả phí, hãy chọn:
-    ➡️ **Bao gồm phí**
+Ví dụ:
+Khách nạp 1.000.000 VNĐ, phí 11.000 VNĐ → Tổng thu khách = 1.011.000 VNĐ
 
-    → Hệ thống sẽ tự động trừ phí từ số tiền nạp, và điều chỉnh số tiền nộp vào tài khoản (sau khi trừ phí).
+💡 **Trường hợp khách chỉ có đúng số tiền cần nộp**:
+Chọn **Bao gồm phí**, hệ thống sẽ tự động trừ phí từ số tiền nạp và ghi nhận số còn lại vào tài khoản đích.
 
+**5. Xác nhận lựa chọn của khách hàng**
 
-5. Xác nhận lựa chọn của khách hàng
-    
-    Sau khi hệ thống trả về mức phí và khách hàng quyết định, GDV chọn:
+Sau khi biết phí và thông tin giao dịch, GDV chọn một trong ba lựa chọn:
 
-    >❌ Từ chối → Khách không đồng ý giao dịch → Kết thúc.
-        > 
-    >🔁 Không đồng ý → Quay lại điều chỉnh thông tin, số tiền.
-        > 
-    >✅ Đồng ý → Tiếp tục thực hiện giao dịch.
+>    ❌ Từ chối: Khách không đồng ý giao dịch → Kết thúc
+> 
+>    🔁 Không đồng ý: Quay lại điều chỉnh thông tin, số tiền
+> 
+>    ✅ Đồng ý: Tiếp tục thực hiện giao dịch
+> 
 
-6. Thông tin xuất hóa đơn VAT
-    
-    Hệ thống hỏi: Khách hàng có cần xuất hóa đơn VAT không?
+**6. Thông tin xuất hóa đơn VAT**
 
-    * Trường hợp **KHÔNG** cần:
+Hệ thống hỏi: Khách hàng có cần xuất hóa đơn VAT không?
+
+* Trường hợp **KHÔNG** cần:
         Hệ thống sẽ tự động gửi hóa đơn VAT qua email tương ứng với tài khoản thụ hưởng (nếu có).
 
     * Trường hợp **CÓ** nhu cầu xuất VAT:
 
     Nhập đầy đủ thông tin như sau:
 
-    > *Loại đối tượng: Cá nhân / Công ty*
-    > 
-    >*Tên người nhận hóa đơn*
+       > *Loại đối tượng: Cá nhân / Công ty*
+       > 
+       >*Tên người nhận hóa đơn*
         > 
-    >*Email*
-    > 
-    >*Số CCCD (đối với cá nhân)*
-    > 
-    >*Địa chỉ*
-    > 
-    >*Mã số thuế (đối với công ty)*
+       >*Email*
+       > 
+       >*Số CCCD (đối với cá nhân)*
+       > 
+       >*Địa chỉ*
+       > 
+    >*Mã số thuế (đối với công ty)* 
 
-7. Gửi yêu cầu rút tiền
-    
-    * Sau khi kiểm tra toàn bộ thông tin:
-    
-    * Nhấn nút **Gửi yêu cầu** để gửi yêu cầu rút tiền sang ngân hàng.
 
-8.  Nhập mã xác thực (OTP)
+**7. Gửi yêu cầu nạp tiền**
 
-    * Hệ thống ngân hàng sẽ gửi SMS OTP (8 chữ số) về số điện thoại người nộp tiền.
+Sau khi kiểm tra toàn bộ thông tin → Nhấn nút **Gửi yêu cầu** để chuyển yêu cầu sang hệ thống ngân hàng.
 
-    * Giao dịch viên (GDV) nhập mã OTP → Nhấn “Xác nhận”
+**8. Nhập mã xác thực OTP**
 
-    > 📌 Ví dụ OTP: 04111994
-    > (Lưu ý: OTP có hiệu lực trong thời gian ngắn)
+* Hệ thống ngân hàng gửi mã OTP (8 chữ số) đến số điện thoại người nộp tiền
 
-9. Xác nhận nộp tiền
+* Giao dịch viên (GDV) nhập mã OTP → Nhấn **Xác nhận**
 
-    Sau khi nhập OTP thành công, hệ thống chuyển sang màn hình **Chi tiết giao dịch**.
+    > **Ví dụ: OTP = 04111994**
+> (**Lưu ý**: *OTP chỉ có hiệu lực trong thời gian ngắn*)
 
-    Tại đây, GDV cần nhấn thêm nút:
-    ➡️ **Xác nhận nộp tiền** (góc trên bên phải) → Giao dịch mới được ghi nhận là hoàn tất.
+**9. Xác nhận nộp tiền**
 
-10. Xác minh và xuất chứng từ
+Sau khi xác thực OTP thành công, hệ thống chuyển sang màn hình **Chi tiết giao dịch**
 
-    **Thu thập thông tin xác thực:**
+→ GDV nhấn **Xác nhận nộp tiền** (*góc trên bên phải*) để hoàn tất giao dịch.
 
-    ✅ Chữ ký của khách hàng
+**10. Xác minh và xuất chứng từ**
 
-    ✅ Ảnh chụp:
-     
-    > Khuôn mặt khách hàng
+Thu thập thông tin xác thực:
+
+✅ Chữ ký khách hàng
+
+✅ Ảnh chụp:
+
+> * Khuôn mặt khách hàng
+> * CCCD mặt trước
+> * CCCD mặt sau
+
+Xuất chứng từ:
+
+Nhấn **Xuất chứng từ** để tạo file PDF gồm:
+
+> * Thông tin giao dịch
+> * Chữ ký khách hàng
+> * Nhân viên thực hiện giao dịch
+
+**11. Gửi chứng từ**
+
+> * Có thể kết nối máy in để in trực tiếp cho khách
 > 
->   CCCD mặt trước
-> 
->   CCCD mặt sau
+> * Hoặc gửi file qua Zalo/email
 
-    **Xuất chứng từ:**
-        
-    Nhấn nút **Xuất chứng từ** để tạo file PDF chứa:
-    
-    > Thông tin giao dịch
-  > 
- >    Chữ ký khách hàng
-     > 
- >    Thông tin GDV thực hiện
-
-11. Gửi chứng từ: 
-    * Có thể kết nối máy in để in trực tiếp cho khách
-    * Hoặc gửi file mềm qua Zalo/email
-
-➡️ Hoàn tất giao dịch
+➡️ **Giao dịch hoàn tất**.
