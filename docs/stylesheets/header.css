@@ -77,8 +77,8 @@
 
 
 .md-header .md-header__button.md-logo img {
-    width: 97px;
-    height: auto;
+    width: auto;
+    height: 45px;
 }
 
 .md-header .md-header__button.md-logo img.logo-mobile {

@@ -18,11 +18,11 @@ theme:
     - content.tabs.link
     - content.code.annotaion
     - content.code.copy
-  logo: assets/images/logo/mta_logo.png
-  favicon: assets/images/mta-favicon.svg
+  logo: /assets/images/logo/mta_full_logo.svg
+  favicon: /assets/images/logo/mta_favicon.svg
   language: vi
   palette:
-    scheme: diva
+    scheme: mta
     primary: white
     accent: light blue
 
@@ -33,13 +33,12 @@ extra_css:
   - stylesheets/tabs.css
   - stylesheets/content.css
   - stylesheets/footer.css
-  - stylesheets/bank-info.css
 
 extra_javascript:
   - javascripts/search-bar.js
   - javascripts/sidebar.js
   - javascripts/feedback.js
-  - javascripts/bank-info.js
+  - javascripts/footer.js
 
 use_directory_urls: false
 
@@ -57,9 +56,9 @@ nav:
     - Giới thiệu: tai-lieu/gioi-thieu.md
     - Bắt đầu:
         - Đăng Nhập: tai-lieu/bat-dau/dang-nhap.md
-    #    - Phí: tai-lieu/bat-dau/phi.md
-    #    - Quản trị và phân quyền: tai-lieu/bat-dau/quan-tri-va-phan-quyen.md
     - Giao Dịch:
+        - Nạp Tiền: tai-lieu/giao-dich/nap-tien.md
+        - Rút tiền Cash by Code: tai-lieu/giao-dich/rut-tien-code-by-code.md
         - Nạp Tiền Mặt: tai-lieu/giao-dich/nap-tien.md
         - Rút tiền Cash by Code: tai-lieu/giao-dich/rut-tien-cash-by-code.md
      #   - Chia sẻ link thanh toán: tai-lieu/link-thanh-toan/chia-se-link.md
@@ -74,7 +73,6 @@ nav:
 #nav_header_custom:
 #  - Thương mại điện tử là gì?: https://docs.paykit.vn/thuong-mai-dien-tu-la-gi.html
 #  - Cổng thanh toán là gì?: https://docs.paykit.vn/cong-thanh-toan-la-gi.html
-
 
 markdown_extensions:
   - abbr
@@ -111,12 +109,26 @@ markdown_extensions:
 extra:
   generator: false
   social:
-    - icon: /assets/images/icons/facebook.svg
+    - icon: /assets/images/icons/facebook_icon.svg
       link: https://www.facebook.com/maitamanhdailyvietlott/
-    - icon: /assets/images/icons/zalo.jpg
+    - icon: /assets/images/icons/zalo_icon.svg
       link: https://zalo.me/2396754630676009467
-    - icon: /assets/images/icons/youtube.svg
+    - icon: /assets/images/icons/youtube_icon.svg
       link: https://www.youtube.com/@maitamanhdailyvietlott
+  app_download:
+    qr_code:
+      link: https://qr.me-qr.com/vi/link-list/jzs3Fyai/show
+      image: /assets/images/meta/mta_qr_code.svg
+      alt: "Scan mã QR để tải ứng dụng"
+    stores:
+      - name: "appstore"
+        link: https://apps.apple.com/vn/app/testflight/id8992476
+        image: /assets/images/meta/app_store.svg
+        alt: "Tải trên App Store"
+      - name: "googleplay"
+        link: https://play.google.com/store/apps/details?id=mta.partner
+        image: /assets/images/meta/google_play.svg
+        alt: "Tải trên Google Play"
   analytics:
     provider: google
     property: G-TWZRE91PCJ
@@ -132,36 +144,18 @@ extra:
           name: Nội dung này cần được cải thiện
           data: 0
           note: >-
-            Cảm ơn bạn đã phản hồi, Paykit sẽ cố gắng cải thiện nội dung này!!
+            Cảm ơn bạn đã phản hồi, Tổng Đại Lý Mai Tâm Anh sẽ cố gắng cải thiện nội dung này!!
 
 
 copyright: |
-  &copy; Hệ Thống Đại Lý Thanh Toán là một sản phẩm của Công ty&nbsp;<a href="https://maitamanh.vn/" target="_blank" rel="noopener">Mai Tâm Anh</a>
+  &copy; Cổng tài liệu chính thức của&nbsp;<a href="https://maitamanh.vn/" target="_blank" rel="noopener">Mai Tâm Anh</a>
 
 footer_menu:
   - Thông Tin:
       - Về Mai Tâm Anh: 'https://maitamanh.vn/ve-mta'
       - Hợp Tác Viettlot: 'https://maitamanh.vn/hop-tac-kinh-doanh-vietlott'
       - Hỗ Trợ Đối Tác: 'https://maitamanh.vn/ho-tro-doi-tac-vietlott'
-      
-     
-#  - Giải pháp:
-#      - TM Điện Tử: 'https://paykit.vn/giaiphap/tm-dien-tu'
-#      - TM Xã Hội: 'https://paykit.vn/giaiphap/tm-xa-hoi'
-#      - Kinh doanh tự do: 'https://paykit.vn/giaiphap/kinh-doanh-tu-do'
-#  - Paykit:
-#      - Về Paykit: 'https://paykit.vn/ve-paykit'
-#      - Biểu phí: 'https://paykit.vn/bieu-phi'
-#      - Blog: 'https://paykit.vn/blog'
-#  - Thông tin hữu ích:
-#      - Trung tâm hỗ trợ: 'https://paykit.vn/trung-tam-ho-tro'
-#      - Tài liệu hướng dẫn: 'https://docs.paykit.vn/'
-#      - Tài liệu API: 'https://docs.paykit.vn/api/gioi-thieu.html'
   - Pháp lý:
-#      - Điều khoản & Điều kiện: 'https://paykit.vn/dieu-khoan-va-dieu-kien'
-#      - Chính sách quyền riêng tư: 'https://paykit.vn/chinh-sach-quyen-rieng-tu'
-#      - Lưu ý về Cookie: 'https://paykit.vn/luu-y-ve-cookie'
        - Chính Sách Bảo Mật: 'https://maitamanh.vn/chinh-sach-bao-mat'
-       
   - Hỗ trợ khách hàng:
      - Tìm điểm bán MTA: 'https://maitamanh.vn/diem-ban'

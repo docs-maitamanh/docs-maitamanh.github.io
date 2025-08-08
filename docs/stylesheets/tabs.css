@@ -33,7 +33,7 @@
 }
 
 .md-tabs .md-tabs__list .md-tabs__item--active {
-    color: var(--md-default-fg-color);
+    color: var(--md-typeset-menu-);
     border-bottom: 2px solid var(--md-default-fg-color);
     font-size: 0.8rem;
     font-style: normal;
