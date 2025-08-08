@@ -1,43 +1,99 @@
-<footer class="md-footer">
-    <div class="footer-background-image">
-        <img src="{{ 'assets/images/meta/footer_menu.jpg' | url }}" alt="logo">
-    </div>
-          <div class="md-footer-meta md-typeset">
-        <div class="md-footer-group_left md-footer-meta__inner">
-            <div class="md-footer_logo_title">
-                {% if page.url.startswith('tai-lieu/') %}
-                    <a href="/tai-lieu/gioi-thieu.html" >
-                         <div class="box-logo">
-                            <img src="{{ 'assets/images/logo/mta_logo_square.png' | url }}" alt="logo">
-                        </div>
-                    </a>
-                {% elif page.url.startswith('api/') %}
-                    <a href="/api/gioi-thieu.html">
-                        <div class="box-logo">
-                            <img src="{{ 'assets/images/logo/mta_logo_square.png' | url }}" alt="logo">
-                        </div>
-                    </a>
-                {% else %}
-                    <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}" >
-                        <div class="box-logo">
-                            <img src="{{ 'assets/images/logo/mta_logo_square.png' | url }}" alt="logo">
-                        </div>
-                    </a>
-                {% endif %}
-
-                <div class="title">
-                    Kinh doanh minh bạch,<br>
-                    Thu nhập ổn định ,<br>
-                    Phát triển lâu dài.
+<footer class="footer-container" id="footer">
+  <div class="footer-background"></div>
+  <div class="footer-wrapper">
+    <div class="footer-responsive-variants">
+      <div class="footer-main">
+        <!-- Footer Content -->
+        <div class="footer-content">
+          <div class="footer-flex-container">
+            <!-- Row 1 -->
+            <div class="footer-row-1">
+              <!-- Column 1.1 -->
+              <div class="footer-col-1">
+                <!-- Row 1.1.1: Company Info -->
+                <div class="company-info">
+                  <div class="company-logo">
+                    <img class="logo-image" src="{{ '/assets/images/logo/mta_full_logo_white.svg' | url }}" alt="Mai Tâm Anh Logo">
+                  </div>
+                  <div class="company-details">
+                    <div class="address-text">
+                      Tầng 14, Tòa nhà Lim 3, 29A Nguyễn Đình Chiểu, Phường Đa Kao, Quận 1, TP.HCM
+                    </div>
+                    <div class="hotline-text">
+                      <strong>Hotline:</strong> 1900 633 035
+                    </div>
+                    <div class="email-text">
+                      <strong>Email:</strong> contact@maitamanh.vn
+                    </div>
+                  </div>
                 </div>
+                
+                <!-- Row 1.1.2: Partnership + Social Media -->
+                <div class="combined-sections">
+                  <div class="partnership">
+                    <div class="partnership-content">
+                      <div class="partnership-title">Đối tác chính thức</div>
+                      <div class="partner-logos">
+                        <div class="mta-logo">
+                          <img src="{{ '/assets/images/logo/mta_logo_white.svg' | url }}" alt="MTA Logo">
+                        </div>
+                        <div class="logo-separator">×</div>
+                        <div class="vietlott-logo">
+                          <img src="{{ '/assets/images/logo/vietlott_logo.svg' | url }}" alt="Vietlott Logo">
+                        </div>
+                      </div>
+                    </div>
+                    <div class="section-divider"></div>
+                  </div>
+                  
+                  <div class="social-media">
+                    <div class="social-title">Kết nối với chúng tôi</div>
+                    <div class="social-icons">
+                      {% for social_item in config.extra.social %}
+                      <a href="{{ social_item.link }}" target="_blank" aria-label="Social Media Link">
+                          <img src="{{ social_item.icon | url }}" alt="Social Icon">
+                      </a>
+                      {% endfor %}
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+              <!-- Column 1.2: App Download -->
+              <div class="app-download">
+                <div class="app-download-title">Tải ứng dụng trên điện thoại</div>
+                <div class="app-download-content">
+                  <a class="qr-code-link" href="{{ config.extra.app_download.qr_code.link }}" target="_blank" aria-label="{{ config.extra.app_download.qr_code.alt }}">
+                      <div class="qr-placeholder">
+                      <img src="{{ config.extra.app_download.qr_code.image | url }}" alt="{{ config.extra.app_download.qr_code.alt }}">
+                      </div>
+                  </a>
+                  
+                  <div class="store-buttons">
+                      {% for store in config.extra.app_download.stores %}
+                      <a class="{{ store.name }}-button" href="{{ store.link }}" target="_blank" aria-label="{{ store.alt }}">
+                          <img src="{{ store.image | url }}" alt="{{ store.alt }}">
+                      </a>
+                      {% endfor %}
+                  </div>
+                </div>
+              </div>
             </div>
-            {% include "partials/social.html" %}
-        </div>
-
-        <div class="md-footer-group_right md-footer-meta__inner">
+            
+            <!-- Row 2: Quick Links -->
             {% include "partials/footer_menu.html" %}
-            {% include "partials/copyright.html" %}
+            
+            <!-- Row 3: Copyright -->
+            <div class="copyright">
+              <div class="copyright-wrapper">
+                <div class="copyright-text">
+                  {{ config.copyright }}
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
-
+      </div>
     </div>
+  </div>
 </footer>
