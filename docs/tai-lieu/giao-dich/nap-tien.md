@@ -43,6 +43,7 @@ Tại giao diện chính, chọn:
 > * Tối đa 5.000.000.000 VNĐ/tháng
 >
 
+
  **Lưu ý:** *Hạn mức sẽ được tự động đặt lại mỗi ngày và mỗi tháng. Nếu nhập vượt quá hạn mức, hệ thống sẽ từ chối giao dịch.*
 
 **3**.2 Thông tin khách hàng (Người nộp tiền)
