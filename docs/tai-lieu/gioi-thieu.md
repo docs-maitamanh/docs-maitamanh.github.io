@@ -59,7 +59,7 @@ Giúp bạn khai thác hiệu quả toàn bộ hệ sinh thái MTA và phát tri
 Nếu có bất kỳ thắc mắc nào, bạn có thể:
 
 Liên hệ trực tiếp:
-📧 Email: [cskh@maitamanh.vn](mailto:cskh@maitamanh.vn) - ☎️ Hotline: **1900 633 035**
+📧 Email: [contact@maitamanh.vn](mailto:contact@maitamanh.vn) - ☎️ Hotline: **1900 633 035**
 
 Tham gia cộng đồng: [Facebook group MTA](https://www.facebook.com/maitamanhdailyvietlott/)
 
