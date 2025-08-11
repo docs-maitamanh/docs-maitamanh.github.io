@@ -1,50 +1,25 @@
 <!-- Footer Menu Links Template -->
-{% if config.footer_menu %}
-  <div class="quicklinks">
-    <div class="quicklinks-title">Liên kết nhanh</div>
+<div class="quicklinks">
+    <div class="quicklinks-title"><strong>LINK NHANH:</strong></div>
     <div class="quicklinks-list">
-      {% set link_count = 0 %}
-      {% for section in config.footer_menu %}
+        {% set all_links = [] %}
+        {% for section in config.footer_menu %}
         {% for section_name, links in section.items() %}
-          {% for link_item in links %}
+            {% for link_item in links %}
             {% for link_text, link_url in link_item.items() %}
-              {% if link_count > 0 %}
-                <div class="link-divider">|</div>
-              {% endif %}
-              <div class="link-item">
-                <a href="{{ link_url }}" target="_blank" rel="noopener">{{ link_text }}</a>
-              </div>
-              {% set link_count = link_count + 1 %}
+                {% set _ = all_links.append((link_text, link_url)) %}
             {% endfor %}
-          {% endfor %}
+            {% endfor %}
         {% endfor %}
-      {% endfor %}
+        {% endfor %}
+        
+        {% for link_text, link_url in all_links %}
+            {% if not loop.first %}
+            <div class="separator-column"></div>
+            {% endif %}
+            <div class="link-item">
+                <a href="{{ link_url }}" target="_blank" rel="noopener">{{ link_text }}</a>
+            </div>
+        {% endfor %}
     </div>
-  </div>
-{% else %}
-  <!-- Fallback footer menu if config.footer_menu is not available -->
-  <div class="quicklinks">
-    <div class="quicklinks-title">Liên kết nhanh</div>
-    <div class="quicklinks-list">
-      <div class="link-item">
-        <a href="https://maitamanh.vn/ve-mta" target="_blank" rel="noopener">Về Mai Tâm Anh</a>
-      </div>
-      <div class="link-divider">|</div>
-      <div class="link-item">
-        <a href="https://maitamanh.vn/hop-tac-kinh-doanh-vietlott" target="_blank" rel="noopener">Hợp Tác Vietlott</a>
-      </div>
-      <div class="link-divider">|</div>
-      <div class="link-item">
-        <a href="https://maitamanh.vn/ho-tro-doi-tac-vietlott" target="_blank" rel="noopener">Hỗ Trợ Đối Tác</a>
-      </div>
-      <div class="link-divider">|</div>
-      <div class="link-item">
-        <a href="https://maitamanh.vn/chinh-sach-bao-mat" target="_blank" rel="noopener">Chính Sách Bảo Mật</a>
-      </div>
-      <div class="link-divider">|</div>
-      <div class="link-item">
-        <a href="https://maitamanh.vn/diem-ban" target="_blank" rel="noopener">Tìm điểm bán MTA</a>
-      </div>
-    </div>
-  </div>
-{% endif %}
+</div>

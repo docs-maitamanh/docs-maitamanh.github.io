@@ -85,9 +85,13 @@
 }
 
 :root {
-    --md-text-font: "Inter", "Roboto";
-    --md-code-font: "Inter", "Roboto";
-    --md-footer-font: "Halyard Display Book", "Halyard Display", sans-serif;
+    --md-text-font: Inter, sans-serif;
+    --md-code-font: Inter, sans-serif;
+    --md-footer-font: Inter, sans-serif;
+}
+
+@supports (font-variation-settings: normal) {
+  :root { font-family: InterVariable, sans-serif; }
 }
 
 [data-md-color-scheme="diva"] {
