@@ -1,13 +1,11 @@
 
-Chào mừng bạn đến với **docs.maitamanh.vn** – nền tảng tài liệu chính thức của Công ty TNHH Đầu tư Mai Tâm Anh (MTA).
+Chào mừng bạn đến với Cổng thông tin/tài liệu hướng dẫn kinh doanh chính thức của Công ty TNHH Đầu tư Mai Tâm Anh (MTA).
 
 Tại đây, bạn sẽ tìm thấy đầy đủ các hướng dẫn, quy trình, chính sách và công cụ hỗ trợ dành cho:
 
 * **Đối tác kinh doanh**:
 Hướng dẫn hợp tác, thông tin sản phẩm, chính sách hoa hồng, hỗ trợ kỹ thuật và vận hành.
 
-* **Nhân sự MTA**:
-Truy cập nhanh các tài liệu nội bộ, quy trình làm việc, biểu mẫu hành chính và chương trình đào tạo.
 ***
 
 ##Tổng quan về Đại lý Thanh toán
